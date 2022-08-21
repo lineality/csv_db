@@ -44,3 +44,19 @@ Modular
 # Individual .csv Tools:
 - shape.exe (like df.shape() in python pandas)
 - head.exe (like df.head() in python pandas)
+
+
+
+
+
+### Note: setup to be able to run the file on your system
+(And file suffix(ending) may vary or be absent depending on the file.)
+```
+$ sudo chmod +x ./NAME_OF_C_EXECUTIBLE.exe
+```
+
+#### or, in two steps
+```
+$ chmod +x NAME_OF_C_EXECUTIBLE.exe
+$ ./NAME_OF_C_EXECUTIBLE.exe
+```
