@@ -1,7 +1,5 @@
 # csv_db
 
-# csv_db
-
 # About The Project
 csv_db or ".csv (file) Database" is the overall name for a proposed, open source, solution to various database, dataframe, data scale, data format issues. For example, a person (or a group) should be able to take any .csv file(s) and quickly and easily perform any basic:
 1. data exploration (Exploratory Data Analysis)
@@ -35,3 +33,8 @@ Modular
 
 # Easy api_endpoint (flast/fast_api) server setup for csv_db
 
+
+
+# Individual Tools:
+- shape.exe (like df.shape() in python pandas)
+- head.exe (like df.head() in python pandas)
