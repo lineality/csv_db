@@ -34,7 +34,13 @@ Modular
 # Easy api_endpoint (flast/fast_api) server setup for csv_db
 
 
+## Tools for examining, linting, compiling, c source code (locally, python notebook, cloud, etc.)
+- .ipynb files
+- demo.csv
+- gcc
+- cpplint
 
-# Individual Tools:
+
+# Individual .csv Tools:
 - shape.exe (like df.shape() in python pandas)
 - head.exe (like df.head() in python pandas)
